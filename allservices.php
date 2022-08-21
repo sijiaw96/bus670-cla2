@@ -6,7 +6,7 @@
 ?>
 <head>
   <meta charset="UTF-8">
-	<title>GUA DESIGN</title>
+	<title>All Services</title>
   <style>
         table {
         border-collapse: collapse;
