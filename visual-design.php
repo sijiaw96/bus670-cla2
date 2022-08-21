@@ -57,7 +57,7 @@
         die("Connection failed: " . $conn->connect_error);
         }
 
-        $sql = "SELECT * FROM products where productname='UI/Visual/ Design' ";
+        $sql = "SELECT * FROM products where productname='UI/Visual Design' ";
         $result = $conn->query($sql);
 
         if ($result->num_rows > 0) {
