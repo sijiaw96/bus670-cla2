@@ -18,7 +18,7 @@
         }
   </style>
   <meta charset="UTF-8">
-	<title>GUA DESIGN</title>
+	<title>UI/Visual Design</title>
 	<!-- <link rel="stylesheet" type="text/css" href="bootstrap.css"> -->
     <link rel="stylesheet" type="text/css" href="home.css">
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
