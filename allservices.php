@@ -32,7 +32,7 @@
 	<nav class="navbar navbar-default">
 		<div class="container">
 		    <div class="navbar-header">
-				<a href="./index.html" class="navbar-brand">GUA DESIGN</a>
+				<a href="./index.php" class="navbar-brand">GUA DESIGN</a>
 		    </div>
 
 		    <ul class="nav navbar-nav navbar-right">
