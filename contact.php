@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-	<title>GUA DESIGN</title>
+	<title>Contact</title>
 	<!-- <link rel="stylesheet" type="text/css" href="bootstrap.css"> -->
   <style>
   .error {color: #FF0000;}
