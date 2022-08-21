@@ -51,13 +51,7 @@
 	</nav>
     <div class = "services">
     <?php
-        $servername = "localhost";
-        $username = "root";
-        $password = "";
-        $dbname = "bus670";
-
-        // Create connection
-        $conn = new mysqli($servername, $username, $password, $dbname);
+        include "cleardb_connection.php";
         // Check connection
         if ($conn->connect_error) {
         die("Connection failed: " . $conn->connect_error);
