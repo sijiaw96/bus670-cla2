@@ -78,6 +78,15 @@
           setTimeout(rotating, 1500); // Change image every 1.5 seconds
         }
         </script>
+	<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJRC8DPMC3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-EJRC8DPMC3');
+</script>
         
 <footer>Copyright @ 2022 GUA DESIGN, All Rights Reserved</footer>
 <script src="http://code.jquery.com/jquery-3.4.1.js"   integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="   crossorigin="anonymous"></script>
