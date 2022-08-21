@@ -60,7 +60,7 @@
         <h3 class = "service-title"> All Services </h3>
         <p class = "service-content"> Check out our services below. If you'are interested, just contact us and we will get back to you soon.</p>
         <?php
-        include cleardb_connection.php;
+        include "cleardb_connection.php";
 	    
         if ($conn->connect_error) {
         die("Connection failed: " . $conn->connect_error);
