@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-	<title>GUA DESIGN</title>
+	<title>Product Strategy</title>
   <style>
         table {
         border-collapse: collapse;
